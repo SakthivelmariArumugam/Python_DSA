@@ -1,6 +1,6 @@
 
 def Multiplication_Table(n):
-  for i in range(1,11):
+  for i in range(1,17):
     num=i*n
     print(f"{i}*{n}={num}")
 
